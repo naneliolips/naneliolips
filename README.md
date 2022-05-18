@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other Front-End Developer 👩‍💻 and Back-End Developer 🎨
 - 🤔 I’m looking for help with Data Science and AI.
 - 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning Automation Systems🤖
-- ⚡ Fun fact: I love to swim, play chess ♟, play basketball 🏀 and writing.
+- ⚡ Fun fact: I love to reading, play Kakuro ♟, play basketball 🏀 and writing.
 
 
 ## ⏲ What we are doing now:
