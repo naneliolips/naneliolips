@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Student 👨‍🎓, Front-End Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
+## I'm a Freelancer 👨‍🎓, Full-Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other Front-End Developer 👩‍💻 and Back-End Developer 🎨
@@ -12,7 +12,7 @@
 ## ⏲ What we are doing now:
 I'm developing a small  project's 🚀, I'm writing a thriller novel. 📃.
 I'm attending courses to learn new technologies. 💻. I'm working to discover new valuable connect's. 👨🏼‍🤝‍👨🏻, 
-i'm studying a college's lessons 🆓.
+i'm studying a Germany 🆓.
 ##
 
 
