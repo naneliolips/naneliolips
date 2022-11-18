@@ -9,13 +9,16 @@
 - ⚡ Fun fact: I love to reading, play Kakuro ♟, play basketball 🏀 and writing.
 
 
-## ⏲ What we are doing now:
+## ⏲ What I'm doing now:
 I'm developing a small  project's 🚀, I'm writing a thriller novel. 📃.
 I'm attending courses to learn new technologies. 💻. I'm working to discover new valuable connect's. 👨🏼‍🤝‍👨🏻, 
 i'm studying a Germany 🆓.
 ##
 
-
+## 🤖 Technologies I use:
+-React and Angular
+-Laravel and MongoDB
+-AWS, GitKraken and more...
 
 ## - 📫 How to find me: 
    <a href="https://twitter.com/batuhan12233565"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-36.png"></a>
